@@ -225,12 +225,6 @@ OOOOO00000OOOOOOOOOOOOOOOOOOOOOOOOOO
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <item>
 
 <title>[B][COLOR aquamarine]A Lenda do Zorro (2005)[/COLOR][/B]</title>
@@ -252,7 +246,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <title>[B][COLOR aquamarine]A Máscara do Zorro (1998)[/COLOR][/B]</title>
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71bcf7a5a9406b437dd42b442ca9b558809a40b7</link>
+<link>http://127.0.0.1:8088/play/71BCF7A5A9406B437DD42B442CA9B558809A40B7-0.MP4</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/original/zWtrrAIMIJlkW1l1TktUlKIHECn.jpg</thumbnail>
 
